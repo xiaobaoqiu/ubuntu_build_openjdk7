@@ -40,3 +40,5 @@ where make is GNU make 3.81 or newer, /usr/bin/make on Linux usually
 is 3.81 or newer.
 
 Complete details are available in README-builds.html.
+
+参考: http://xiaobaoqiu.github.io/blog/2017/02/04/build-openjdk/
